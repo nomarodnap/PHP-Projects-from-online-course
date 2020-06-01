@@ -6,6 +6,6 @@ these projects isn't develop by myself. but their're projects from online course
 
 Online Course:
 
-Lynda - PHP with MySQL Essential Training 1-2 (globe bank)
+Lynda.com - PHP with MySQL Essential Training 1-2 (globe bank)
 
-Lynda - PHP - Object-Oriented Programming with Databases (chain gang)
+Lynda.com - PHP - Object-Oriented Programming with Databases (chain gang)
